@@ -1,1 +1,3 @@
 # dotfiles
+
+Computers gotta compute!
